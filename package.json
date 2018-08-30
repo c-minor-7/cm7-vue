@@ -1,0 +1,20 @@
+{
+  "name": "cm7-vue",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jason Yu <me@ycmjason.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c-minor-7/cm7-vue.git"
+  },
+  "bugs": {
+    "url": "https://github.com/c-minor-7/cm7-vue/issues"
+  },
+  "homepage": "https://github.com/c-minor-7/cm7-vue#readme",
+  "description": ""
+}
