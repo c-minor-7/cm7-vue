@@ -1,6 +1,6 @@
 {
   "name": "cm7-vue",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "main": "src/Cm7.vue",
   "files": [
     "./src"
