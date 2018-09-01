@@ -46,5 +46,8 @@
     "cm7": "^0.5.2",
     "vue": "^2.5.17",
     "vue-hot-reload-api": "^2.3.0"
-  }
+  },
+  "extentions": [
+    "cm7"
+  ]
 }

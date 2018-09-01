@@ -1,0 +1,13 @@
+
+*[data-v-5d6b98]{box-sizing:border-box
+}
+#app[data-v-5d6b98]{display:flex;flex-wrap:wrap;margin:0 auto;max-width:1200px
+}
+textarea[data-v-5d6b98]{width:50%
+}
+.cm7[data-v-5d6b98],.cm7Src[data-v-5d6b98]{padding:1rem;width:50%
+}
+.cm7Src[data-v-5d6b98]{background:#daffe1;border:1px solid #89ff86;font-family:monospace;font-size:inherit;min-height:100vh;resize:none;white-space:pre
+}
+.cm7Error[data-v-5d6b98]{background:#ffdada;border-color:#ff8686
+}
